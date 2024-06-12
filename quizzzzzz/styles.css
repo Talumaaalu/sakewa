@@ -137,3 +137,8 @@ body {
         background: url('https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA4L3Jhd3BpeGVsX29mZmljZV8yNl90b3Bfdmlld19vZl9taW5pbWFsX2Flc3RoZXRpY19iYWNrZ3JvdW5kX2hvbF9jZWViZjg4OS00MWQwLTQyNzAtODNiZi1lYWNiZWYxMzRkYWRfMS5qcGc.jpg') center/cover no-repeat;
     }
 }
+footer p {
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 10px 0;
+}
